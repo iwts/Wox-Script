@@ -1,0 +1,12 @@
+{
+    "ID":"b9e6c707-7c22-4e20-b36c-d6ac0520462c",
+    "ActionKeyword":"test",
+    "Name":"plugin test",
+    "Description":"plugin test",
+    "Author":"iwts",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/iwts",
+    "IcoPath":"Images\\ico.ico",
+    "ExecuteFileName":"main.py"
+}

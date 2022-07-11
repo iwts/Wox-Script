@@ -1,0 +1,12 @@
+{
+    "ID":"916d1982-23ac-4bef-92e5-5d179dc71186",
+    "ActionKeyword":"time",
+    "Name":"timestamp",
+    "Description":"timestamp",
+    "Author":"iwts",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/iwts",
+    "IcoPath":"Images\\ico.ico",
+    "ExecuteFileName":"main.py"
+}

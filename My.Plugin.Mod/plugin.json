@@ -1,0 +1,12 @@
+{
+    "ID":"fbba4f99-b523-4097-be50-138877f8bb6e",
+    "ActionKeyword":"mod",
+    "Name":"mod",
+    "Description":"mod",
+    "Author":"iwts",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/iwts",
+    "IcoPath":"Images\\ico.ico",
+    "ExecuteFileName":"main.py"
+}

@@ -1,0 +1,12 @@
+{
+    "ID":"5262c356-8e06-48f0-a8d8-a7a77f17a837",
+    "ActionKeyword":"ip",
+    "Name":"ip",
+    "Description":"local ip",
+    "Author":"iwts",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/iwts",
+    "IcoPath":"Images\\ico.ico",
+    "ExecuteFileName":"main.py"
+}
